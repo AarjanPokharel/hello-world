@@ -20,6 +20,7 @@
             margin-bottom: 20px;
         }
         .login-box input[type="text"],
+        .login-box input[type="email"],
         .login-box input[type="password"] {
             width: calc(100% - 20px);
             padding: 10px;
@@ -40,6 +41,11 @@
         .login-box input[type="submit"]:hover {
             background-color: #45a049;
         }
+        .copyright {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+        }
     </style>
 </head>
 <body>
@@ -47,9 +53,13 @@
         <h2>Login</h2>
         <form action="login.jsp" method="post">
             <input type="text" name="username" placeholder="Username" required><br>
+            <input type="email" name="email" placeholder="Email Address" required><br>
             <input type="password" name="password" placeholder="Password" required><br>
             <input type="submit" value="Login">
         </form>
+    </div>
+    <div class="copyright">
+        &copy; 2024 ARP Tech Pvt.Ltd . All rights reserved.
     </div>
 </body>
 </html>
