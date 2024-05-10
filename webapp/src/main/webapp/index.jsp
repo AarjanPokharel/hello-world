@@ -58,8 +58,8 @@
             <input type="submit" value="Login">
         </form>
     </div>
-    <div class="copyright">
-        &copy; 2024 ARP Tech Pvt.Ltd . All rights reserved.
+    <div class="Copyright">
+        &copy; 2024 ARP-SJ Tech Pvt.Ltd . All rights reserved.
     </div>
 </body>
 </html>
