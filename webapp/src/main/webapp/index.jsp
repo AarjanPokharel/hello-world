@@ -59,7 +59,7 @@
         </form>
     </div>
     <div class="Copyright">
-        &copy; 2024 ARP-SJ Tech Pvt.Ltd . All rights reserved.
+        &copy; 2024 ARP-SUPJ Tech Pvt.Ltd . All rights reserved.
     </div>
 </body>
 </html>
