@@ -5,13 +5,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ea9797;
+            background-color: #cccbf5;
         }
         .login-box {
             width: 300px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #fff;
+            background-color: #e7caca;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
